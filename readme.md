@@ -7,9 +7,13 @@ Build a CRUD API (Web development with golang)
 Use Postman or Insomnia or any REST Client
 
 GET ALL (GET): http://localhost:8000/movies
+
 GET BY (GET) : http://localhost:8000/movies/{id}
+
 CREATE (POST) : http://localhost:8000/movies
+
 UPDATE (PUT) : http://localhost:8000/movies/{id}
+
 DELETE (DELETE) : http://localhost:8000/movies/{id}
 
 **To generate executable file**
